@@ -1,2 +1,2 @@
-# QC
+# Introduction to Quantum Computing with Qiskit
  
